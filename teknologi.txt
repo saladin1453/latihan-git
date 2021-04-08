@@ -1,7 +1,8 @@
 Teknolohi yang hendak dipakai :
 
 	Frontend:
-	-
+	-Vue JS
+	-Bootstrap v5
 
 	Backend:
-	-
+	-Laravel
