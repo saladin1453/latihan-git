@@ -2,6 +2,7 @@ Teknolohi yang hendak dipakai :
 
 	Frontend:
 	-React JS
+	-Bootstrap v5
 
 	Backend:
-	-Codeigneter
+	-Laravel
