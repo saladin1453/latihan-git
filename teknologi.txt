@@ -1,7 +1,7 @@
 Teknolohi yang hendak dipakai :
 
 	Frontend:
-	-
+	-React JS
 
 	Backend:
-	-
+	-Codeigneter
